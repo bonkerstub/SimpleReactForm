@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/SimpleReactForm/static/js/main.e61f0784.chunk.js",
+    "main.js.map": "/SimpleReactForm/static/js/main.e61f0784.chunk.js.map",
+    "runtime-main.js": "/SimpleReactForm/static/js/runtime-main.15047c2e.js",
+    "runtime-main.js.map": "/SimpleReactForm/static/js/runtime-main.15047c2e.js.map",
+    "static/js/2.01acbe88.chunk.js": "/SimpleReactForm/static/js/2.01acbe88.chunk.js",
+    "static/js/2.01acbe88.chunk.js.map": "/SimpleReactForm/static/js/2.01acbe88.chunk.js.map",
+    "index.html": "/SimpleReactForm/index.html",
+    "precache-manifest.5495148f8a5f8830f94d947c4d352dc2.js": "/SimpleReactForm/precache-manifest.5495148f8a5f8830f94d947c4d352dc2.js",
+    "service-worker.js": "/SimpleReactForm/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15047c2e.js",
+    "static/js/2.01acbe88.chunk.js",
+    "static/js/main.e61f0784.chunk.js"
+  ]
+}
